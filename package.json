@@ -1,0 +1,21 @@
+{
+  "name": "deepthoughts",
+  "version": "1.0.0",
+  "description": "Deep Thoughts by Jack Handey, spoken by Amazon Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deep",
+    "thoughts",
+    "quotes",
+    "alexa"
+  ],
+  "author": "David Tschida",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "aws": "0.0.3-2"
+  }
+}
